@@ -1,3 +1,5 @@
+# firstly we have to install the instabot library by using -- pip install instabot
+
 from instabot import Bot
 bot=Bot()
 bot.login(username="chaudhary.___.kartik", password="Jaatian")
